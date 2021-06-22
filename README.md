@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @meghmahmud
 - 👀 I’m interested in ... HTML Email, Front-End Web Development, Mobile App Development!
-- 🌱 I’m currently learning ... Flutter for Mobile App Development!
+- 🌱 I’m currently learning ... Flutter!
 - 📫 You can reach me at ... meghmahmud@gmail.com
 
 <!---
